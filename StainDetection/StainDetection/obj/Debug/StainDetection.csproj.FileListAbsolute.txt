@@ -1,0 +1,56 @@
+c:\users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\bin\Debug\StainDetection.exe.config
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\bin\Debug\StainDetection.exe
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\bin\Debug\StainDetection.pdb
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\bin\Debug\Emgu.CV.dll
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\bin\Debug\Emgu.CV.ML.dll
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\bin\Debug\Emgu.CV.OpenCL.dll
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\bin\Debug\Emgu.CV.UI.dll
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\bin\Debug\Emgu.CV.VideoStab.dll
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\bin\Debug\Emgu.Util.dll
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\bin\Debug\ZedGraph.dll
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\bin\Debug\Emgu.CV.xml
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\bin\Debug\Emgu.CV.ML.xml
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\bin\Debug\Emgu.CV.OpenCL.xml
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\bin\Debug\Emgu.CV.UI.xml
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\bin\Debug\Emgu.Util.xml
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\obj\Debug\StainDetection.csprojResolveAssemblyReference.cache
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\obj\Debug\StainDetection.Form1.resources
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\obj\Debug\StainDetection.Properties.Resources.resources
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\obj\Debug\StainDetection.csproj.GenerateResource.Cache
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\obj\Debug\StainDetection.exe
+C:\Users\user754\documents\visual studio 2012\Projects\StainDetection\StainDetection\obj\Debug\StainDetection.pdb
+C:\Users\userw\Desktop\StainDetection\StainDetection\bin\Debug\StainDetection.exe.config
+C:\Users\userw\Desktop\StainDetection\StainDetection\obj\Debug\StainDetection.exe
+C:\Users\userw\Desktop\StainDetection\StainDetection\obj\Debug\StainDetection.pdb
+C:\Users\userw\Desktop\StainDetection\StainDetection\obj\Debug\StainDetection.csprojResolveAssemblyReference.cache
+C:\Users\userw\Desktop\StainDetection\StainDetection\obj\Debug\StainDetection.Form1.resources
+C:\Users\userw\Desktop\StainDetection\StainDetection\obj\Debug\StainDetection.Properties.Resources.resources
+C:\Users\userw\Desktop\StainDetection\StainDetection\obj\Debug\StainDetection.csproj.GenerateResource.Cache
+C:\Users\userw\Desktop\StainDetection\StainDetection\bin\Debug\StainDetection.exe
+C:\Users\userw\Desktop\StainDetection\StainDetection\bin\Debug\StainDetection.pdb
+C:\Users\userw\Desktop\StainDetection\StainDetection\bin\Debug\ZedGraph.dll
+C:\Users\userw\Desktop\StainDetection\StainDetection\bin\Debug\Emgu.CV.xml
+C:\Users\userw\Desktop\StainDetection\StainDetection\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\userw\Desktop\StainDetection\StainDetection\bin\Debug\Emgu.CV.ML.xml
+C:\Users\userw\Desktop\StainDetection\StainDetection\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\userw\Desktop\StainDetection\StainDetection\bin\Debug\Emgu.CV.OpenCL.xml
+C:\Users\userw\Desktop\StainDetection\StainDetection\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\userw\Desktop\StainDetection\StainDetection\bin\Debug\Emgu.CV.UI.xml
+C:\Users\userw\Desktop\StainDetection\StainDetection\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\userw\Desktop\StainDetection\StainDetection\bin\Debug\Emgu.Util.xml
+C:\Users\userw\Desktop\StainDetection\StainDetection\bin\Debug\Emgu.CV.dll
+C:\Users\userw\Desktop\StainDetection\StainDetection\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\userw\Desktop\StainDetection\StainDetection\bin\Debug\Emgu.CV.ML.dll
+C:\Users\userw\Desktop\StainDetection\StainDetection\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\userw\Desktop\StainDetection\StainDetection\bin\Debug\Emgu.CV.OpenCL.dll
+C:\Users\userw\Desktop\StainDetection\StainDetection\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\userw\Desktop\StainDetection\StainDetection\bin\Debug\Emgu.CV.UI.dll
+C:\Users\userw\Desktop\StainDetection\StainDetection\bin\Debug\Emgu.CV.VideoStab.dll
+C:\Users\userw\Desktop\StainDetection\StainDetection\bin\Debug\Emgu.Util.dll
